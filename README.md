@@ -5,6 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 # ディレクトリ構成
 ```
+エルます若葉
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
